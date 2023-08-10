@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724939350249",
+    "project_id": "my-notes-ef864",
+    "storage_bucket": "my-notes-ef864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724939350249:android:141bbb134ab5179f285078",
+        "android_client_info": {
+          "package_name": "com.techspark.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724939350249-im9iihh8rhdl7qvvi15mt05sgpus0ee1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3mLaCPKok_Z1Z66nns2xbyac419eqKtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724939350249-im9iihh8rhdl7qvvi15mt05sgpus0ee1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
